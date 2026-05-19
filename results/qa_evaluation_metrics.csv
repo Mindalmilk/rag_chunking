@@ -1,0 +1,4 @@
+chunking_strategy,precision,recall,f1_score,accuracy
+fixed,0.57,0.57,0.57,0.5376344086021505
+semantic,0.565,0.565,0.565,0.5347593582887701
+recursive,0.595,0.595,0.595,0.5524861878453039
