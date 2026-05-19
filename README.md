@@ -37,6 +37,9 @@
 | recursive         | 0.595     | 0.595  | 0.595    | 0.5524861878453039 |
 ## Фиксированные параметры RAG
 Векторная база данных - Chroma
+
 Retriver - sentence-transformers/all-MiniLM-L6-v2
+
 Модель генерации ответов - llama-3.1-8b-instant(temperature=0, max_tokens=256)
+
 Размер чанков - 512
