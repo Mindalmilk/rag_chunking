@@ -1,0 +1,5 @@
+strategy,chunks_count,avg_chunk_len,median_chunk_len,min_chunk_len,max_chunk_len,chunking_time_sec
+fixed,12601,499.3965558289025,512.0,1,512,41.928
+nltk_sentence,14588,429.33575541540995,447.0,3,1700,6.82
+semantic,19978,313.3354690159175,358.0,1,512,2264.131
+recursive,17415,359.80005742176286,398.0,3,512,1.862

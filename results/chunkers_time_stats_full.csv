@@ -1,0 +1,5 @@
+strategy,index_time_sec,retrieval_time_sec
+fixed,2395.32,19.988
+nltk_sentence,1505.869,9.611
+semantic,1588.973,8.243
+recursive,1289.33,8.586
