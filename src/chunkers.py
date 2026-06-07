@@ -26,8 +26,8 @@ class FixedChunker(TextSplitter):
         return self._splitter.split_text(text)
 
 
-class NltkSemanticChunker(TextSplitter):
-    def __init__(self, chunk_size=512, chunk_overlap=0, language="russian", **kwargs):
+class SentenceChunker(TextSplitter):
+    def __init__(self, chunk_size=512, chunk_overlap=0, language="english", **kwargs):
         super().__init__(chunk_size=chunk_size, chunk_overlap=chunk_overlap, **kwargs)
 
         for pkg in ("punkt", "punkt_tab"):

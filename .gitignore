@@ -2,6 +2,7 @@
 data/fixed_chunkers_db/
 data/semantic_chunkers_db/
 data/recursive_chunkers_db/
+data/sentence_chunkers_db/
 results/fixed_results_qa_part_1.json
 results/fixed_results_qa_part_2.json
 results/semantic_results_qa_part_1.json

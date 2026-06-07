@@ -1,4 +1,3 @@
-# Core RAG & LLM
 langchain
 langchain-groq
 langchain-chroma
@@ -8,16 +7,12 @@ langchain-text-splitters
 langchain-huggingface
 chromadb
 
-# Embeddings
 sentence-transformers
 
-# NLP & Text Processing
 nltk
 beautifulsoup4
 
-# API & environment
 groq
 python-dotenv
 
-# Utilities
 tqdm
